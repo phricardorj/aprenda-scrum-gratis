@@ -29,7 +29,7 @@ Cada Módulo será uma pasta deste repositório! Sua formatação será `modulo-
   </tr>
 </table>
 
-## Fontes
+## 🔎 Fontes
 - [Scrum.org](https://www.scrum.org/)
 - [Digital Innovation One](https://digitalinnovation.one/)
 - [Código Fonte TV ](https://www.codigofonte.com.br/)

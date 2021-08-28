@@ -2,6 +2,8 @@
 
 Repositório gratuito com todo meu conteúdo sobre SCRUM reunido gratuitamente em um único lugar para distribuir aprendizado para todos e facilitar minhas anotações e fixação de conhecimento!
 
+⭐ **Não esqueça de deixar sua estrela neste repositório, custa nada e ajudará manter ele sempre atualizado e popular no GitHub!!!**
+
 ## 📚 O que é Scrum?
 
 O Scrum é um framework de gerenciamento de projetos, da organização ao desenvolvimento ágil de produtos complexos e adaptativos com o mais alto valor possível, através de várias técnicas, utilizado desde o início de 1990 e que atualmente é utilizado em mais de 60% dos projetos ágeis em todo o mundo.

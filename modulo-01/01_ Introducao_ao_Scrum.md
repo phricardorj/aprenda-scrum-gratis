@@ -6,10 +6,6 @@ As iterações consistem em ciclos curtos que chamamos de sprints, onde o trab
 
 O framework Scrum consiste nos times do Scrum associados a papéis, eventos, artefatos e regras. Cada componente dentro do framework serve a um propósito específico e é essencial para o uso e sucesso do Scrum.
 
-O Scrum está representado na figura abaixo:
-
-![Scrum-Representacao](https://camo.githubusercontent.com/47f45b7c10a68e72ec2a11dd6f6f78e71286e08139eb1644844f3610b0f74e2d/68747470733a2f2f7777772e747274392e6a75732e62722f7064732f536372756d2f7265736f75726365732f6d6170615f7064732e6a7067)
-
 ## Princípios e Diretrizes
 
 As Diretrizes aqui definidas fornecem algumas orientações para guiar o Time Scrum na utilização do Processo de Desenvolvimento de Software.

@@ -54,3 +54,14 @@ São elas:
 - Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e então refina e ajusta suas práticas, sempre tendo em vista estes princípios.
 
 O Time Scrum não deve se prender apenas às diretrizes citadas anteriormente. Qualquer outro princípio, diretriz ou valor que possa melhorar o processo, deve ser agregado ao mesmo, se assim o Time Scrum entender que é válido.
+
+## Fases e Processos do Scrum
+
+| Iniciar                                          | Planejar & Estimar               | Implementar                             | Revisão e Retrospectiva       | Release                  |
+| ------------------------------------------------ | -------------------------------- | --------------------------------------- | ----------------------------- | ------------------------ |
+| Criar a Visão do Projeto                         | Criar as Histórias de Usuário    | Criar os Entregáveis                    | Demonstrar e Validar o Sprint | Enviar os Entregáveis    |
+| Identificar o Scrum Master & o(s) Stakeholder(s) | Estimar Histórias de Usuário     | Conduzir a Reunião Diária               | Retrospectiva do Sprint       | Retrospectiva do Projeto |
+| Formar o Time Scrum                              | Comprometer Histórias de Usuário | Refinar o Backlog do Produto Priorizado |                               |                          |
+| Desenvolver o(s) Épico(s)                        | Identificar Tarefas              |                                         |                               |                          |
+| Criar o Backlog do Produto Priorizado            | Estimar Tarefas                  |                                         |                               |                          |
+| Conduzir o Planejamento da Release               | Criar o Backlog do Sprint        |                                         |                               |                          |

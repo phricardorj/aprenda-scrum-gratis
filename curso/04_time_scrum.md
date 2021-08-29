@@ -1,4 +1,4 @@
-# 02 - Time Scrum
+# 03 - Time Scrum
 
 Times Scrum são auto-organizáveis e multifuncionais, escolhem qual a melhor forma para completarem seu trabalho, em vez de serem dirigidos por outros de fora do Time. Possuem todas as competências necessárias para completar o trabalho sem depender de outros que não fazem parte da equipe. O modelo de time no Scrum é projetado para aperfeiçoar a flexibilidade, criatividade e produtividade.
 

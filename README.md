@@ -29,9 +29,8 @@ Cada Módulo será uma pasta deste repositório! Sua formatação será `modulo-
   </tr>
 </table>
 
-## 🔎 Fontes
-- [Scrum.org](https://www.scrum.org/)
+## 🔎 Fontes e Referências
+
+- [Guia do Scrum (Português)](https://scrumguides.org/docs/scrumguide/v2016/2016-Scrum-Guide-Portuguese-Brazilian.pdf)
 - [Digital Innovation One](https://digitalinnovation.one/)
 - [Código Fonte TV ](https://www.codigofonte.com.br/)
-- [Wikipédia](<https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)>)
-- [Rocketseat](https://blog.rocketseat.com.br/como-funciona-a-nossa-estrutura-de-desenvolvimento/)
